@@ -1,0 +1,9 @@
+
+### 2. `requirements.txt`
+
+```txt
+torch==2.0.0
+transformers==4.12.3
+sentence-transformers==2.2.2
+pandas==1.5.3
+scikit-learn==1.2.2
